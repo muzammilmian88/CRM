@@ -1,0 +1,30 @@
+/* AllUsers.css */
+
+.custom-table {
+    border: 2px solid #6bd94a;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #98c5db;
+  }
+  
+  .custom-table th, .custom-table td {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .custom-table th {
+    background-color: #98c5db;
+  }
+  
+  .custom-table tbody tr:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .btn-sm {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+  

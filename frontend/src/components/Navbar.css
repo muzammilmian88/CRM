@@ -1,0 +1,28 @@
+/* Navbar.css */
+.navbar {
+    padding: 1rem;
+    background: gray;
+    color: white;
+    transition: background 0.3s ease; /* Add transition for background color */
+  }
+  
+
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-nav .nav-link {
+    color: white;
+    transition: color 0.3s ease; /* Add transition for text color */
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ffd700; /* Change text color on hover */
+  }
+  
+  .sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  

@@ -1,0 +1,12 @@
+.update-form {
+    background-color: #f8f9fa;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .alert {
+    margin-top: 10px;
+  }
+  
